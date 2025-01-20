@@ -1,9 +1,11 @@
 # mcs
-Metl Create Server Modpack.<br>
+Metl Create SMP Modpack.<br>
 This Modpack is based around the Create Mod.<br>
-The server is running on mohist and Minecraft 1.20.1
+The official server is running on mohist and Minecraft 1.20.1
 
-Clientsie Mods:<br>
+<details>
+<summary>Clientside Mods:</summary>
+  
 - [3d\-Skin\-Layers](https://modrinth.com/mod/zV5r3pPn) by tr7zw
 - [AI\-Improvements](https://modrinth.com/mod/DSVgwcji) by BuiltBrokenModding
 - [Advanced Mining Dimension](https://modrinth.com/mod/XRETyQl3) by Max Henkel
@@ -15,7 +17,7 @@ Clientsie Mods:<br>
 - [Architectury](https://modrinth.com/mod/lhGA9TYQ) by shedaniel
 - [Ars Creo](https://modrinth.com/mod/fZ324GMc)
 - [Ars Elemental](https://www.curseforge.com/projects/561470) by Alexthw
-- Ars Nouveau by Bailey Hollingsworth
+- [Ars Nouveau](https://www.curseforge.com/projects/401955) by Bailey Hollingsworth
 - [Athena](https://modrinth.com/mod/b1ZV3DIJ) by ThatGravyBoat
 - [AttributeFix](https://modrinth.com/mod/lOOpEntO) by Darkhax
 - [AzureLib](https://modrinth.com/mod/7zlUOZvb) by AzureDoom, Gecko, Eliot, Chappie, DerToaster, Tslat, Bvanseg
@@ -67,7 +69,6 @@ Clientsie Mods:<br>
 - [Create: Enchantable Machinery](https://modrinth.com/mod/eqrvp4NK) by Cotrin
 - [Create: Framed](https://modrinth.com/mod/15fFZ3f4) by DakotaPride
 - [Create: Interiors](https://modrinth.com/mod/r4Knci2k) by sudolev
-- [Create: Less Ticking](https://modrinth.com/mod/RQANGB0o) by Dadamalda
 - [Create: More Drill Heads](https://modrinth.com/mod/9MEmQKkF) by Forsteri
 - [Create: Simple Ore Doubling](https://modrinth.com/mod/7jXyH8Xk) by robinfrt
 - [Create: Steam 'n' Rails](https://modrinth.com/mod/ZzjhlDgM) by The Railways Team
@@ -92,7 +93,7 @@ Clientsie Mods:<br>
 - [Entity Texture Features](https://modrinth.com/mod/BVzZfTc1) by Traben
 - [Explorer's Compass](https://modrinth.com/mod/RV1qfVQ8) by ChaosTheDude
 - [Explorify](https://modrinth.com/datapack/explorify) by bebebea\_loste
-- Exposure by Mortuusars
+- [Exposure](https://modrinth.com/mod/hB899VmG) by Mortuusars
 - [Extended Cogwheels](https://modrinth.com/mod/qO4lsa4Y) by Rabbitminers
 - [FTB Chunks](https://www.curseforge.com/projects/314906) by FTB Team
 - [FTB Essentials](https://www.curseforge.com/projects/410811) by FTB Team
@@ -116,12 +117,12 @@ Clientsie Mods:<br>
 - [HammerLib](https://modrinth.com/mod/PlkSuVtM) by Zeitheron
 - [Handcrafted](https://modrinth.com/mod/pJmCFF0p) by Alex Nijjar, Kekie6
 - [Hearth & Home](https://modrinth.com/mod/ePCzRQkj) by Starfish Studios
-- ImmediatelyFast by RK\_01
+- [ImmediatelyFast](https://modrinth.com/mod/5ZwdcRci) by RK\_01
 - [Immersive Paintings](https://modrinth.com/mod/6txNkua3) by Luke100000
 - [Indestructible Enchantment](https://modrinth.com/mod/wgMvepPF) by Alexthw46
 - [Inventory Profiles Next](https://modrinth.com/mod/O7RBXm3n) by blackd/mirinimi
 - [Inventory Totem](https://modrinth.com/mod/yQj7xqEM) by Rick South
-- [Jade](https://minecraft.curseforge.com/projects/jade) by Snownee
+- [Jade](https://modrinth.com/mod/nvQzSEkH) by Snownee
 - [Jade Addons](https://modrinth.com/mod/xuDOzCLy) by Snownee
 - [Joy of Painting](https://modrinth.com/mod/YOs4tZea) by xerca
 - [Just Enough Items](https://modrinth.com/mod/u6dRKJwZ) by mezz
@@ -162,7 +163,7 @@ Clientsie Mods:<br>
 - [Patchouli](https://modrinth.com/mod/nU0bVIaL) by Vazkii
 - [Placebo](https://www.curseforge.com/projects/283644) by Shadows\_of\_Fire
 - [Player Animator](https://modrinth.com/mod/gedNE4y2) by KosmX
-- Polymorph by Illusive Soulworks
+- [Polymorph](https://modrinth.com/mod/tagwiZkJ) by Illusive Soulworks
 - [Protection Pixel](https://modrinth.com/mod/l1FZziEx) by JEDIGD, MCreator
 - [Puzzles Lib](https://modrinth.com/mod/QAGBst4M) by Fuzs
 - [Radiant Gear](https://modrinth.com/mod/AtT9wm5O) by Illusive Soulworks
@@ -189,7 +190,7 @@ Clientsie Mods:<br>
 - [Structory](https://modrinth.com/mod/aKCwCJlY) by Stardust Labs
 - [SuperMartijn642's Config Library](https://modrinth.com/mod/LN9BxssP) by SuperMartijn642
 - [SuperMartijn642's Core Lib](https://modrinth.com/mod/rOUBggPv) by SuperMartijn642
-- Supplementaries by MehVahdJukaar, Plantkillable
+- [Supplementaries](https://modrinth.com/mod/fFEIiSDQ) by MehVahdJukaar, Plantkillable
 - [Supplementaries Squared](https://modrinth.com/mod/dCCkNFwE) by MehVahdJukaar, Plantkillable
 - [Terralith](https://modrinth.com/mod/8oi3bsk5) by Stardust Labs
 - [Tetra Extras](https://modrinth.com/mod/wDvpvvcU) by Vinnaxy
@@ -200,7 +201,7 @@ Clientsie Mods:<br>
 - [Too Fast](https://modrinth.com/mod/w6JSkKSH) by Noobanidus
 - [Too Many Glyphs](https://www.curseforge.com/projects/560595) by DerringersMods
 - [Torchmaster](https://modrinth.com/mod/Tl8ESrhX) by Xalcon
-- Twigs by Ninni
+- [Twigs](https://modrinth.com/mod/RG50cUrX) by Ninni
 - [Valhelsia Core](https://modrinth.com/mod/HsdNFinx)
 - [Valhelsia Furniture](https://modrinth.com/mod/qmCh2PxS)
 - [Valhelsia Structures](https://modrinth.com/mod/T21szC0a) by Valhelsia Team
@@ -226,8 +227,26 @@ Clientsie Mods:<br>
 - [betterchunkloading mod](https://www.curseforge.com/projects/899487) by Someaddon
 - [create: things and misc](https://modrinth.com/mod/uWrs8XlB) by To0pa, Unusual Squad, MCreator
 - [libIPN](https://modrinth.com/mod/onSQdWhM) by blackd/mirinimi
-- Lithostitched by Apollo
+- [Lithostitched](https://modrinth.com/mod/XaDC71GB) by Apollo
 - [MoreMcmeta](https://github.com/MoreMcmeta/core) by soir20
 - [mutil](https://modrinth.com/mod/HWHl8Evb) by Mickelus
-- [Oculus](https://curseforge.com/minecraft/mc-mods/oculus) by NanoLive, dima\_dencep, coderbot, IMS212, Justsnoopy30, FoundationGames
-- tetra by Mickelus
+- [Oculus](https://modrinth.com/mod/GchcoXML) by NanoLive, dima\_dencep, coderbot, IMS212, Justsnoopy30, FoundationGames
+- [tetra](https://modrinth.com/mod/YP9DjOvN) by Mickelus
+</details>
+
+<details>
+<summary>(Some) Serverside Mods:</summary>
+
+- [Async Locator](https://modrinth.com/mod/rkN8aqci) by bright_spark
+- [Create: Less Ticking](https://modrinth.com/mod/RQANGB0o) by Dadamalda
+- [Chest Logger](https://www.curseforge.com/projects/1009161) by qoyri
+- [Daily Weather](https://modrinth.com/mod/fhMjR3no) by Garden Gals, coolbot100s
+</details>
+
+<details>
+<summary>(Some) Serverside Plugins:</summary>
+
+- [AlwaysOnline](https://modrinth.com/plugin/b1nG2tT5) by Dablakbandit
+- [ClickShop](https://modrinth.com/plugin/41H6qVOW) by Clickism
+- [Orebfuscator](https://modrinth.com/plugin/XY7PHeei) by Ingrim4
+</details>
