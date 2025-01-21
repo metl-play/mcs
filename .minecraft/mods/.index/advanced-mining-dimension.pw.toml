@@ -1,0 +1,16 @@
+filename = 'mining-dimension-forge-1.20.1-1.1.0.jar'
+name = 'Advanced Mining Dimension'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'alpha'
+
+[download]
+hash = '3826ce0829678b4910dcbe08adfea7eb7114929e348b5837cea222cf9db913e42dbbd9bfce555a115edfe12816a1f92f6bf1ff85819986065c9f8b8419a019d1'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/XRETyQl3/versions/SfCtwxcf/mining-dimension-forge-1.20.1-1.1.0.jar'
+
+[update.modrinth]
+mod-id = 'XRETyQl3'
+version = 'SfCtwxcf'

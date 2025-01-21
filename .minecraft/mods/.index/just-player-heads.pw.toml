@@ -1,0 +1,16 @@
+filename = 'justplayerheads-1.20.1-4.1.jar'
+name = 'Just Player Heads'
+side = 'server'
+x-prismlauncher-loaders = [ 'neoforge', 'forge', 'fabric', 'quilt' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '71e46843792cbdbb05149c61e17fa471e013e3f2d9fb6f205bb43427613556d41381ec9335201e2a2337a6002deb02d7b01dde51c6251d7d410bb6500a762d22'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/YdVBZMNR/versions/5b6ApNk2/justplayerheads-1.20.1-4.1.jar'
+
+[update.modrinth]
+mod-id = 'YdVBZMNR'
+version = '5b6ApNk2'

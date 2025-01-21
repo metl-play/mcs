@@ -1,0 +1,16 @@
+filename = 'CreativeCore_FORGE_v2.12.27_mc1.20.1.jar'
+name = 'CreativeCore'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge', 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'a1a525df431f4e87bb2b99672fa2050c6f66e17c5ba03311ea4671e5106d9896f40baf2f01462e3df67dbe241f9d64122f60fa9cf63e108e2c7463abf9a3e8ad'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/OsZiaDHq/versions/jx15KTr4/CreativeCore_FORGE_v2.12.27_mc1.20.1.jar'
+
+[update.modrinth]
+mod-id = 'OsZiaDHq'
+version = 'jx15KTr4'

@@ -1,0 +1,19 @@
+{
+	id: "22FFF09EE80B85E3"
+	loot_size: 1
+	order_index: 8
+	rewards: [
+		{
+			item: {
+				Count: 1
+				id: "sophisticatedbackpacks:backpack"
+				tag: {
+					borderColor: 8991416
+					clothColor: 8991416
+				}
+			}
+		}
+		{ count: 64, ignore_reward_blocking: true, item: "minecraft:kelp" }
+	]
+	title: "The Beginning"
+}

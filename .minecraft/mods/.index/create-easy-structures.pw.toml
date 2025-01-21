@@ -1,0 +1,16 @@
+filename = 'create_easy_structures-0.1.2-forge-1.20.1.jar'
+name = 'Create: Easy Structures'
+side = 'server'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '77d07ae2a6b5b87b6650977f9bf589aca08a3fcbb2e34076089529ce3586866033f6a99a3d0244f578a87f65d86fbef794a4e21a0c398dedef3059724d2028c6'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/z69Pxatv/versions/ewAM436R/create_easy_structures-0.1.2-forge-1.20.1.jar'
+
+[update.modrinth]
+mod-id = 'z69Pxatv'
+version = 'ewAM436R'
