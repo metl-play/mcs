@@ -1,0 +1,162 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "trains"
+	group: "1CF541D7529DA9CF"
+	icon: "create:track"
+	id: "517937F45B1E5E59"
+	order_index: 0
+	quest_links: [ ]
+	quests: [
+		{
+			description: ["Getting your precious resources arround, u might wanna look into trains from the Create mod. Building a good train network is very important to make your cities grow."]
+			icon: "create:track"
+			id: "76C646344AE14851"
+			rewards: [{
+				id: "04EB051D5696F116"
+				type: "xp"
+				xp: 10
+			}]
+			shape: "rsquare"
+			size: 2.0d
+			subtitle: "Keep the resources moving!"
+			tasks: [{
+				id: "28294D36AE92DD7C"
+				title: "Trains!"
+				type: "checkmark"
+			}]
+			x: -3.5d
+			y: -0.5d
+		}
+		{
+			dependencies: ["76C646344AE14851"]
+			description: ["I suggest u make a very good supply chain of train tracks because you need many of them."]
+			id: "2A737B82825013F7"
+			rewards: [{
+				id: "59555FA677CDE976"
+				type: "xp"
+				xp: 10
+			}]
+			subtitle: "Can't have enough train tracks."
+			tasks: [{
+				count: 64L
+				id: "31511D57CE374EB4"
+				item: "create:track"
+				type: "item"
+			}]
+			title: "The start of your Railway Empire!"
+			x: 0.0d
+			y: -0.5d
+		}
+		{
+			dependencies: ["2A737B82825013F7"]
+			id: "469989E586C2443C"
+			rewards: [{
+				id: "486A89FB17793EB4"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [{
+				id: "0CA2BEB0E3CDE95B"
+				item: "create:track_station"
+				type: "item"
+			}]
+			x: 2.5d
+			y: -0.5d
+		}
+		{
+			dependencies: ["469989E586C2443C"]
+			id: "007715624910B964"
+			rewards: [{
+				id: "77A0FC44BD578F41"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [{
+				id: "7D7E331C09FF32BA"
+				item: "create:track_signal"
+				type: "item"
+			}]
+			x: 2.5d
+			y: 1.0d
+		}
+		{
+			dependencies: ["469989E586C2443C"]
+			id: "4C1A38DFD188ACE7"
+			rewards: [{
+				id: "52C7D80E20AB2888"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [{
+				id: "2780CC9E3B6B38D1"
+				item: "create:track_observer"
+				type: "item"
+			}]
+			x: 2.5d
+			y: -2.0d
+		}
+		{
+			dependencies: ["469989E586C2443C"]
+			id: "7C0B7E706A6F3404"
+			rewards: [{
+				id: "7667D14BC36296CC"
+				type: "xp"
+				xp: 10
+			}]
+			subtitle: "Train Designing"
+			tasks: [
+				{
+					id: "4C907D3BE270569B"
+					item: "create:controls"
+					type: "item"
+				}
+				{
+					id: "041E61E7B0BD6EE8"
+					item: "create:railway_casing"
+					type: "item"
+				}
+			]
+			title: "All Aboard!"
+			x: 4.0d
+			y: -0.5d
+		}
+		{
+			dependencies: ["7C0B7E706A6F3404"]
+			id: "33DD75AFB8A78FAC"
+			rewards: [{
+				id: "00428F2C80CF60A7"
+				type: "xp"
+				xp: 10
+			}]
+			subtitle: "CHOO CHOO!"
+			tasks: [{
+				id: "30C53DB670A024DE"
+				item: "create:schedule"
+				type: "item"
+			}]
+			title: "Automated logistics"
+			x: 5.5d
+			y: -0.5d
+		}
+		{
+			dependencies: ["2A737B82825013F7"]
+			description: ["The Track buffer has no purpose, just some decoration."]
+			id: "05685B836F0E6DC1"
+			rewards: [{
+				id: "5DA1DC2612DBEBFA"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [{
+				id: "7E03B18C733D5774"
+				item: "create_things_and_misc:train_stop"
+				type: "item"
+			}]
+			title: "End of the line!"
+			x: 0.0d
+			y: 1.0d
+		}
+	]
+	title: "Trains!"
+}

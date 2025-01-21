@@ -1,0 +1,16 @@
+filename = 'inventorytotem-1.20.1-3.3.jar'
+name = 'Inventory Totem'
+side = 'server'
+x-prismlauncher-loaders = [ 'neoforge', 'forge', 'fabric', 'quilt' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '853a80b0a62c980f9b38e40bc65f2f1fae226253e0021e3757414c0884d4d0b3c9d47a62886f3669830c18e3e0edfe8c71efdfde60f3f1d6ec4c77aed2db48be'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/yQj7xqEM/versions/lp00NsMn/inventorytotem-1.20.1-3.3.jar'
+
+[update.modrinth]
+mod-id = 'yQj7xqEM'
+version = 'lp00NsMn'

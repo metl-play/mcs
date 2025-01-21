@@ -1,0 +1,16 @@
+filename = 'justmobheads-1.20.1-8.3.jar'
+name = 'Just Mob Heads'
+side = 'server'
+x-prismlauncher-loaders = [ 'neoforge', 'forge', 'fabric', 'quilt' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '305eeff82684e6ebbe2308cdd5239a5fe1ad9cf8e2589cc2618068fed711d987346cdab9809e8f68dd2e6ba1a9e362ab45cd5bbbecf260166510008cd2698b1f'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/jzTUm9hE/versions/rPxmSxex/justmobheads-1.20.1-8.3.jar'
+
+[update.modrinth]
+mod-id = 'jzTUm9hE'
+version = 'rPxmSxex'

@@ -1,0 +1,16 @@
+filename = 'toms_trading_network-1.20-0.3.1.jar'
+name = "Tom's Trading Network"
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20', '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'c169eb8a896c07f82fd5bade6a4a18ebf1a86a06c398e85742e8a1678703c7a4d38ad3263f43ac88b1071b7916004cdc7267505a3c3eabbe801aa44a238c9f10'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/x5iQ3NM5/versions/zSGsUCXZ/toms_trading_network-1.20-0.3.1.jar'
+
+[update.modrinth]
+mod-id = 'x5iQ3NM5'
+version = 'zSGsUCXZ'

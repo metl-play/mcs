@@ -1,0 +1,47 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "welcome"
+	group: ""
+	icon: "supplementaries:enderman_head"
+	id: "5B00676D79306EA2"
+	order_index: 0
+	quest_links: [ ]
+	quests: [{
+		description: [
+			"Metl Create SMP is a modpack focused on building beautifull contraptions. Building a logistics network (trains) between cities/facilities is optional but highly recommended. (more on that later)"
+			""
+			"If you're new to modded MC, make sure to check out the chapter &9Getting Started&r to get you on your feet!"
+			""
+			"Metl Create SMP is currently in the early stages of the modpack. New mods will be added over time. If you have any questions or issues, feel free to join the Metl Create SMP Discord."
+			""
+			""
+			"Discord:"
+			"discord.io/temp"
+			""
+			""
+			"Notes:"
+			"Quests are optional."
+			"The Quests are stolen from MHG Cities."
+		]
+		icon: "supplementaries:enderman_head"
+		id: "3BC0A50886A3222B"
+		rewards: [{
+			exclude_from_claim_all: true
+			id: "10A8D73B2366CFA1"
+			table_id: 2521998881639335395L
+			type: "choice"
+		}]
+		shape: "diamond"
+		size: 3.0d
+		tasks: [{
+			id: "5A1784C5676CDC62"
+			title: "Welcome to Metl Create SMP!"
+			type: "checkmark"
+		}]
+		title: "&dWelcome to Metl Create SMP"
+		x: 0.5d
+		y: -0.5d
+	}]
+	title: "Welcome"
+}

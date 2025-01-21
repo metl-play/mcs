@@ -1,0 +1,4 @@
+autoJump:false
+touchscreen:false
+skipMultiplayerWarning:true
+skipRealms32bitWarning:true

@@ -1,0 +1,16 @@
+filename = 'darktimer-forge-1.20.1-1.0.9.jar'
+name = 'DarkTimer'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '738004417a228d06271838eb7806fd4be87ca11d933e7134afd88570d56f3174ab5a386cfb2a72d9836dfed61b9ff8e8fb32716010d9f912228db9c48b0027c3'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/VbZ6dnH1/versions/pBwddzgH/darktimer-forge-1.20.1-1.0.9.jar'
+
+[update.modrinth]
+mod-id = 'VbZ6dnH1'
+version = 'pBwddzgH'

@@ -1,0 +1,16 @@
+filename = 'CreateCasing-1.20.1-1.6.2-fix1.jar'
+name = 'Create Encased'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'bbbb66d8e62dc1a8fdbf3d7e9d5540a4fca2e62f6ceba7f78a31156f01ff6c752c55a5feaa5dd00161debd72db5677b47cab581d319b1d3749afe0ef149cf9db'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/hSSqdyU1/versions/l0zvmFWJ/CreateCasing-1.20.1-1.6.2-fix1.jar'
+
+[update.modrinth]
+mod-id = 'hSSqdyU1'
+version = 'l0zvmFWJ'
