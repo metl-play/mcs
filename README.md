@@ -1,7 +1,9 @@
 # mcs
 Metl Create SMP Modpack.<br>
 This Modpack is based around the Create Mod.<br>
-The official server is running on mohist and Minecraft 1.20.1
+The official server is running on mohist and Minecraft 1.20.1<br>
+
+The two mods here are modified to have recipes more to my liking.<br>
 
 <details>
 <summary>Clientside Mods:</summary>
